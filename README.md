@@ -8,4 +8,4 @@ visualization. I used C# programming to integrate the Unity engine and geotiff f
 this project, I was able to demonstrate my skills in Unity and C# programming, as well as my
 ability to work with geospatial data.
 
- You can watch a short demo of the game in follow link https://www.youtube.com/watch?v=zeeFA6X06YM&ab_channel=basilismulonas
+ You can watch a short demo of the game in follow link https://youtu.be/zeeFA6X06YM
